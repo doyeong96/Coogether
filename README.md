@@ -10,7 +10,7 @@
 ### ✔️ **프로젝트 명**
 
 ---
-![Untitled](/uploads/6d6e56c9bac702c10fbd307993dcdf50/Untitled.png)
+![Untitled](docs/ReadMeImg/Untitled.png)
 
 
 ### ✔️ **프로젝트 일정**
@@ -58,14 +58,14 @@
 
 ---
 
-![figma](/uploads/945760c21b037119d331bb94c4706e72/figma.png)
+![figma](docs/ReadMeImg/figma.png)
 
 
 ## 💥 기술 스택
 
 ---
 
-![architecture](/uploads/9b9ed3eb8161621c0605e2a51bb7c014/architecture.png)
+![architecture](docs/ReadMeImg/architecture.png)
 
 ```jsx
 FE : React(v17.0.2), Redux toolkit, React-router-dom(v5.3.4), styled-components(v5.3.6)
@@ -96,22 +96,22 @@ DevOps : Docker(20.10.23), Jenkins(2.375.3), nginx(1.18.0), AWS ec2
 ## 🔔 서비스 플로우
 
 
-![flow](/uploads/23079ef87406e2a7534e3a7b4a80a036/flow.png)
+![flow](docs/ReadMeImg/flow.png)
 
 ## 📙 [기능 명세](https://www.notion.so/413d4eca2d46491c83f0c4543bee066c)
 
 
-![function](/uploads/9c35c5824932f798f9be143b86e19aa5/function.png)
+![function](docs/ReadMeImg/function.png)
 
 ## 💾 [ERD](https://www.notion.so/ERD-b3acd3fae0124044b38b357ee4d9c99c)
 
 
-![Coogether_ERD](/uploads/5675f7fd87006c8cb956c178096426a1/Coogether_ERD.png)
+![Coogether_ERD](docs/ReadMeImg/Coogether_ERD.png)
 
 ## 📜  [API Docs](https://www.notion.so/API-Docs-a933fc057ec446b5bf9c2ceb738b0809)
 
 
-![api](/uploads/8b41cc7b2485d85bc32c051b5b3082a2/api.png)
+![api](docs/ReadMeImg/api.png)
 
 ## 📁 디렉토리 구조
 
@@ -242,4 +242,4 @@ DevOps : Docker(20.10.23), Jenkins(2.375.3), nginx(1.18.0), AWS ec2
 
 ## 🚢 **팀원**
 
-![team](/uploads/aee54e017f0fcbff6a0d71f2ac05bca3/team.png)
+![team](docs/ReadMeImg/team.png)
